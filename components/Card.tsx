@@ -6,7 +6,7 @@ const Card =  () => {
         <>
         
         <div className=" w-949 h-304 relative mt-40 rounded-sm bg-slate-300 ">
-            <p className=" absolute left-0 pt-1 pl-2 text-xs text-fanual-400  ">Job List</p>
+            <p className=" absolute left-0 pt-1 pl-2 font-bold text-xs text-fanual-400  ">Job List</p>
             <div className="bg-white w-919 h-266 m-4 mt-5 border-1 shadow-lg rounded-3xl px-12 relative py-8">
                 <div className="pl-8">
                     <Image className=" w-16 h-14 absolute -mt-1 left-0 pl-2" src = "/logo.svg"  alt="Image Not found" width={30} height={30} />

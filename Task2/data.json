@@ -1,0 +1,60 @@
+[
+    {
+      "id": 1,
+      "imageUrl":  "https://res.cloudinary.com/dmegiw31y/image/upload/v1710423619/a2sv/rt441m4pmc5ohdjnkmin.svg",
+      "title": "Social Media Assistant",
+      "subTitle": "Young Men Christians Association.Addis Ababa, Ethiopia",
+      "description": "As a Social Media Assistant,you will work closely with the social media manager or marketing team to execute social media strategies and campagins.You will be responsible for assisting in the creation and scheduling of engaging content,monitoring social media channels, and interacting with followers",
+      "relatedTopics": ["teamwork", "communication", "workplace culture"],
+      "responsibility": {
+        "each-respo": [
+          "Community engagement to ensure that is supported and actively represented online",
+          "Focus on social media content development and publication",
+          "Marketing and strategy support",
+          "Stay on top of trends on social media platforms, and suggest content ideas to the team",
+          "Engage with online communities"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "imageUrl":  "https://res.cloudinary.com/dmegiw31y/image/upload/v1710423619/a2sv/nvhvmophpfsu29bbllsf.svg",
+      "title": "Social Media Assistant",
+      "subTitle": "Young Men Christians Association.Addis Ababa, Ethiopia",
+      "description": "As a Social Media Assistant,you will work closely with the social media manager or marketing team to execute social media strategies and campagins.You will be responsible for assisting in the creation and scheduling of engaging content,monitoring social media channels, and interacting with followers",
+      "relatedTopics": [
+        "innovation",
+        "digital transformation",
+        "business efficiency"
+      ]
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://res.cloudinary.com/dmegiw31y/image/upload/v1710423620/a2sv/p7xg0fxporgk5vzauua4.svg",
+      "title": "Volunteer Teacher",
+      "subTitle": "School Under The Tree.Addis Ababa, Ethiopia",
+      "description": "As a Social Media Assistant,you will work closely with the social media manager or marketing team to execute social media strategies and campagins.You will be responsible for assisting in the creation and scheduling of engaging content,monitoring social media channels, and interacting with followers",
+      "relatedTopics": [
+        "data analysis",
+        "business intelligence",
+        "predictive modeling"
+      ]
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://res.cloudinary.com/dmegiw31y/image/upload/v1710423620/a2sv/p7xg0fxporgk5vzauua4.svg",
+      "title":  "Social Media Assistant",
+      "subTitle": "The Africa in me.Addis Ababa, Ethiopia",
+      "description": "As a Social Media Assistant,you will work closely with the social media manager or marketing team to execute social media strategies and campagins.You will be responsible for assisting in the creation and scheduling of engaging content,monitoring social media channels, and interacting with followers",
+      "relatedTopics": [
+        "cybersecurity measures",
+        "data protection",
+        "risk management"
+      ]
+    }
+  ]
+  
+
+
+
+  
